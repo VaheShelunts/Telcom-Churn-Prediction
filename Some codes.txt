@@ -1,0 +1,4 @@
+https://github.com/Parandzem-S/Business-Analytics_Fall2018_TA/blob/master/Linear%20Regression-Session%204.ipynb
+https://nbviewer.jupyter.org/github/HrantDavtyan/MSSM_Business_Analytics/blob/master/Lab%20session%20%28December%204%29.%20Random%20Forest%2C%20Gradient%20Boosting%2C%20Neural%20Network.ipynb
+https://python-graph-gallery.com/seaborn/
+https://nbviewer.jupyter.org/github/Parandzem-S/Business-Analytics_Fall2018_TA/blob/master/Session%2017.%20Missing%20Values%2C%20Outliers%2C%20Errors%2C%20Auto-ARIMA.ipynb
